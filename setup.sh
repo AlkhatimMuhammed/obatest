@@ -18,7 +18,7 @@ npm install @whiskeysockets/baileys@latest pino@latest --silent
 
 # 4. جلب الكود المشوش (الملف الأساسي index.js) من المستودع أو رابطه المباشر
 echo "[+] Downloading obfuscated core..."
-curl -s -o index.js https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/index.js
+curl -s -o index.js https://raw.githubusercontent.com/AlkhatimMuhammed/obatest/main/index.js
 
 echo "========================================"
 echo "[+] Setup completed successfully! 🚀"
